@@ -1,0 +1,4 @@
+interface:
+  display_name: "UMKT Student Work Reviewer"
+  short_description: "Review DOCX/PDF student work against the 2024 UMKT guide"
+  default_prompt: "Review this student submission against the UMKT 2024 academic-work guide. State the inferred submission type and programme level, then give evidence-based required corrections and recommendations."
